@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-const ARIYAN = [
+const mahmud = [
   "baby",
   "bby",
   "babu",
@@ -28,7 +28,7 @@ module.exports.config = {
    name: "hinata",
    aliases: ["baby", "bby", "bbu", "jan", "janu", "wifey", "bot"],
    version: "1.7",
-   author: "ARIYAN",
+   author: "MahMUD",
    role: 0,
    category: "chat",
    guide: {
